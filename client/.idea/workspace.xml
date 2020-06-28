@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidGradleBuildConfiguration">
+    <option name="SYNC_PROJECT_BEFORE_BUILD" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efe07970-a19d-4f77-9e26-1fc35c01ea3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectId" id="1XMCqOVDTUTYaF86iXVQpgt4SjY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.27625" />
+    <property name="project.structure.side.proportion" value="0.5968858" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Gradle.client_3 [dependencies]">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileClient" />
+      <module name="client_3.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileClient" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FileClient" />
+      <module name="client_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Simulator" />
+      <module name="client_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client_3 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" singleton="false" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" singleton="false" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="client" />
+          <option name="entrypoint" value="java FileClient" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FileClient" />
+      <item itemvalue="Application.FileClient (1)" />
+      <item itemvalue="Application.Simulator" />
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Gradle.client_3 [dependencies]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.client_3 [dependencies]" />
+        <item itemvalue="Application.Simulator" />
+        <item itemvalue="Application.FileClient (1)" />
+        <item itemvalue="Application.FileClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efe07970-a19d-4f77-9e26-1fc35c01ea3c" name="Default Changelist" comment="" />
+      <created>1580846766414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580846766414</updated>
+      <workItem from="1580846770278" duration="29833000" />
+      <workItem from="1581075086171" duration="1665000" />
+      <workItem from="1581079526911" duration="26867000" />
+      <workItem from="1581434677063" duration="1000" />
+      <workItem from="1581778566968" duration="5591000" />
+      <workItem from="1581942492143" duration="31814000" />
+      <workItem from="1582105312646" duration="34569000" />
+      <workItem from="1593315083304" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Docker" timestamp="1581076085663">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Docker/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1581076085663" />
+    <state x="415" y="30" key="#Dockerfile" timestamp="1581953457894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="30" key="#Dockerfile/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1581408306797" />
+    <state x="415" y="30" key="#Dockerfile/0.0.1440.900@0.0.1440.900" timestamp="1581953457894" />
+    <state x="396" y="127" key="#FileClient" timestamp="1581951982949">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="396" y="127" key="#FileClient/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1581932848170" />
+    <state x="396" y="127" key="#FileClient/0.0.1440.900@0.0.1440.900" timestamp="1581951982949" />
+    <state x="396" y="115" key="#FileClient_(1)" timestamp="1581953957625">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="396" y="115" key="#FileClient_(1)/0.0.1440.900@0.0.1440.900" timestamp="1581953957625" />
+    <state x="320" y="115" width="800" height="717" key="#Intentions" timestamp="1580978398487">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" width="800" height="717" key="#Intentions/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1580978398487" />
+    <state x="320" y="115" key="#Project_Structure" timestamp="1581079834818">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1581079834818" />
+    <state x="396" y="115" key="#Simulator" timestamp="1582614312587">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="396" y="115" key="#Simulator/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1582614312587" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581932837033">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1581932837033" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1580902224718">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1580902224718" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1583158185555">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900/-276.-1080.1920.1080@0.0.1440.900" timestamp="1582729390827" />
+    <state width="1398" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900/-567.-1417.2560.1417@0.0.1440.900" timestamp="1580978872889" />
+    <state width="1398" height="293" key="GridCell.Tab.0.bottom/0.0.1440.900/-567.-1440.2560.1440@-567.-1440.2560.1440" timestamp="1582099853112" />
+    <state width="1398" height="330" key="GridCell.Tab.0.bottom/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1582614467599" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583158185555" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1583158185552">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.0.1440.900/-276.-1080.1920.1080@0.0.1440.900" timestamp="1582729390825" />
+    <state width="1398" height="252" key="GridCell.Tab.0.center/0.0.1440.900/-567.-1417.2560.1417@0.0.1440.900" timestamp="1580978872887" />
+    <state width="1398" height="293" key="GridCell.Tab.0.center/0.0.1440.900/-567.-1440.2560.1440@-567.-1440.2560.1440" timestamp="1582099853110" />
+    <state width="1398" height="330" key="GridCell.Tab.0.center/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1582614467597" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583158185552" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1583158185552">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.0.1440.900/-276.-1080.1920.1080@0.0.1440.900" timestamp="1582729390820" />
+    <state width="1398" height="252" key="GridCell.Tab.0.left/0.0.1440.900/-567.-1417.2560.1417@0.0.1440.900" timestamp="1580978872885" />
+    <state width="1398" height="293" key="GridCell.Tab.0.left/0.0.1440.900/-567.-1440.2560.1440@-567.-1440.2560.1440" timestamp="1582099853107" />
+    <state width="1398" height="330" key="GridCell.Tab.0.left/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1582614467596" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583158185552" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1583158185554">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.0.1440.900/-276.-1080.1920.1080@0.0.1440.900" timestamp="1582729390826" />
+    <state width="1398" height="252" key="GridCell.Tab.0.right/0.0.1440.900/-567.-1417.2560.1417@0.0.1440.900" timestamp="1580978872888" />
+    <state width="1398" height="293" key="GridCell.Tab.0.right/0.0.1440.900/-567.-1440.2560.1440@-567.-1440.2560.1440" timestamp="1582099853111" />
+    <state width="1398" height="330" key="GridCell.Tab.0.right/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1582614467598" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583158185554" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1583158185557">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583158185557" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1583158185556">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583158185556" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1583158185555">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583158185555" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1583158185557">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583158185557" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1581429666915">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1581429666915" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1582726983822">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900/-276.-1080.1920.1080@0.0.1440.900" timestamp="1582726983822" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1581778590998">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581778590998" />
+    <state x="458" y="210" key="extract.method.dialog" timestamp="1580902208293">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="210" key="extract.method.dialog/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1580902208293" />
+    <state x="301" y="175" width="837" height="550" key="find.popup" timestamp="1581944957600">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="175" width="837" height="550" key="find.popup/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1581409000352" />
+    <state x="301" y="175" width="837" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1581944957600" />
+    <state x="97" y="64" key="new project wizard" timestamp="1581953035539">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="64" key="new project wizard/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1581932958847" />
+    <state x="97" y="64" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1581953035539" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1581957608406">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-567.-1440.2560.1440@0.0.1440.900" timestamp="1580910125199" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581957608406" />
+  </component>
+</project>
